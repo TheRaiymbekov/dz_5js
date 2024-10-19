@@ -1,0 +1,20 @@
+[
+  {
+    "marca": "Mercedes-Benz",
+    "model": "w140",
+    "nickname": "Кабан"
+  },
+  {
+    "marca": "Toyota",
+    "model": "Supra"
+  },
+  {
+    "marca": "Nissan",
+    "model": "Skyline"
+  },
+  {
+    "marca": "BMW",
+    "model": "E60",
+    "nickname": "Самурай"
+  }
+]
